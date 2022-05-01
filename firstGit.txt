@@ -1,3 +1,4 @@
 this is first commit
+this is to show HAU how git works
 
 edit: it goes brrrrrrrrrrrr set upstream
